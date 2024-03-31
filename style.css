@@ -1,0 +1,36 @@
+header {
+    text-align: center;
+    background-color: #f2d1f3; 
+    padding: 20px 0;
+}
+
+header h1 {
+    color: #333;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h3 {
+    color: #333;
+}
+
+section p {
+    color: #757070;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    background-color: #b9acac;
+    padding: 10px 0;
+}
